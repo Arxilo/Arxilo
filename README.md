@@ -18,7 +18,7 @@
 
 ## 💫 Sobre mí
 
-Actualmente estoy aprendiendo a trabajar con Java y Spring boot y otras tecnologías de Spring. Sin embargo, Python también llama mi atención y estoy aprendiendo a hacer análisis de datos. Me encanta usar IA para que me ayude con mi trabajo pero siempre llevando yo el control de este. Por el momento tengo tres herramientas favoritas: el editor de código Cursor, Claude Code y el CLI de Google Gemini.
+Actualmente estoy aprendiendo a trabajar con Java y Spring boot y otras tecnologías de Spring. Sin embargo, Python también llama mi atención y estoy aprendiendo a hacer análisis de datos. Me encanta usar IA para que me ayude con mi trabajo pero siempre llevando yo el control de este. Por el momento tengo tres herramientas favoritas: el editor de código Cursor, Claude Code y el CLI de Google Gemini...Aunque ya se le dice Antigravity CLI.
 
 A futuro quiero aprender sobre la nube de Google y seguramente hacer las certificaciones de la misma.
 
